@@ -9,11 +9,8 @@ A few resources to get you started if this is your first Flutter project:
 - https://flutter.dev/docs/get-started/codelab
 - https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Description
 
-## Getting Started: FlutLab - Flutter Online IDE
+Building an adventure game like Bandersnatch. 
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+<img width="317" height="567" alt="image" src="https://github.com/user-attachments/assets/39639671-4de5-418c-99d1-c2de41331494" />
